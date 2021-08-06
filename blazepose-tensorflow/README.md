@@ -1,3 +1,5 @@
+# This source code was forked from [BlazePose-Tensorflow](https://github.com/jiang-du/BlazePose-tensorflow)
+
 # A Tensorflow Implementation for BlazePose
 
 This is a third-party TensorFlow implementation for BlazePose.
